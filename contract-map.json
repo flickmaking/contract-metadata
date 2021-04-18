@@ -1,4 +1,14 @@
 {
+    "0xfed869d86fbb8c7a320a4b9f02ead44fe161a418": {
+    "name": "FilmVault",
+    "logo": "FilmVault.png",
+    "erc20": true,
+    "symbol": "FilmVault",
+    "decimals": 9,
+    "status": "active"
+  }
+},
+{
   "0x8E3BCC334657560253B83f08331d85267316e08a": {
     "name": "Rubic",
     "logo": "brbc.svg",
